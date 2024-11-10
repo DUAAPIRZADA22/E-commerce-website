@@ -9,8 +9,8 @@ const Newsletter = () => {
           </h1>
   
           <p className="text-black text-opacity-70 mx-auto mt-4 text-sm sm:text-base md:text-lg max-w-[600px]">
-            Craving a quick coffee break? We're here to serve you the best hot drinks and snacks, freshly prepared just for you.
-            Whether it's a busy morning or a lazy afternoon, we're always ready to deliver your favorite treats with speed and perfection.
+            Craving a quick coffee break? We are here to serve you the best hot drinks and snacks, freshly prepared just for you.
+            Whether it is a busy morning or a lazy afternoon, we are always ready to deliver your favorite treats with speed and perfection.
             Join us now and satisfy your cravings instantly!
           </p>
   

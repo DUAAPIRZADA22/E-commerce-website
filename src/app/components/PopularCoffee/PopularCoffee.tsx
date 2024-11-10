@@ -28,7 +28,7 @@ const PopularCoffee = () => {
   return (
     <div className='pt-[3rem] pb-[3rem]'>
         <h1 className='heading'> Our Popular
-             <span className='text-orange-700'> Coffee's</span>
+             <span className='text-orange-700'> Coffee List</span>
              </h1>
     
      <div className='w-[80%] mt-[4rem] mx-auto'>

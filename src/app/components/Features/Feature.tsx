@@ -45,8 +45,8 @@ const Feature = () => {
               Your Opinion Is Important
             </h1>
             <p className='text-black text-opacity-70 text-sm'>
-              We value your feedback and believe it’s essential in helping us grow. Share your thoughts, 
-              and let’s craft an even better experience together. Your voice matters!
+              We value your feedback and believe its essential in helping us grow. Share your thoughts, 
+              and let&apos;s craft an even better experience together. Your voice matters!
             </p>
           </div>
         </div>
@@ -66,7 +66,7 @@ const Feature = () => {
             </h1>
             <p className='text-black text-opacity-70 text-sm'>
               Our coffee shake blends rich, bold coffee with creamy milk for a smooth, refreshing treat. Topped with whipped cream,
-              it's the perfect balance of sweetness and caffeine to energize your day.
+              its the perfect balance of sweetness and caffeine to energize your day.
             </p>
           </div>
         </div>

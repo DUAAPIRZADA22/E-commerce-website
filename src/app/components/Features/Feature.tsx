@@ -15,7 +15,7 @@ const Feature = () => {
         {/* 1st Card */}
         <div className='bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300'>
           <Image
-            src='/images/bg2.jpg.jpg' 
+            src='/images/bg2.jpg' 
             alt="coffee"
             width={800}
             height={600}

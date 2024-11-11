@@ -69,7 +69,7 @@ const PopularCoffee = () => {
 
     <CoffeeCard
     title="Frappucino"
-    image="/images/Frappucino.jpg" 
+    image="/images/frappucino.jpg" 
     reviews="967"
     reviewText='Refreshing and creamy Frappuccino with a perfect blend of coffee, ice, and a sweet finish.'
     price="5.00"/>

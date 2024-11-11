@@ -62,7 +62,7 @@ const PopularCoffee = () => {
 
 <CoffeeCard
     title="Americano Coffee"
-    image="/images/Americano.jpg" 
+    image="/images/americano.jpg" 
     reviews="043"
     reviewText='Bold and smooth, Americano offers a deep, robust coffee flavor with a clean finish.'
     price="10.88"/>
